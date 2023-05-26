@@ -1,0 +1,19 @@
+{
+  "name": "umbrella_drugstore",
+  "version": "1.0.0",
+  "description": "Testes no projeto integrador",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Sarah Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^16.0.3",
+    "@angular/cli": "^16.0.3",
+    "@angular/common": "^16.0.3",
+    "@angular/core": "^16.0.3",
+    "@angular/platform-browser-dynamic": "^16.0.3",
+    "cypress": "^12.13.0"
+  }
+}
